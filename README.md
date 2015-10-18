@@ -6,7 +6,8 @@
 ## Arkitektur
 [Big ball of mud](http://www.laputan.org/mud/mud.html)  
 [DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net)  
-[DDD med Java EE 6 - Adam Bien](http://www.javaworld.com/article/2078042/java-app-dev/domain-driven-design-with-java-ee-6.html)
+[DDD med Java EE 6 - Adam Bien](http://www.javaworld.com/article/2078042/java-app-dev/domain-driven-design-with-java-ee-6.html)  
+[Eric Evans DomainLanguage website](https://domainlanguage.com)
 
 ## Dokumentation
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
