@@ -19,4 +19,5 @@
 
 
 #### Under review, mangler kategorisering
-http://www.datadisk.co.uk/html_docs/ejb/ejb3_domain_models.htm
+http://www.datadisk.co.uk/html_docs/ejb/ejb3_domain_models.htm  
+https://dzone.com/refcardz/getting-started-domain-driven
