@@ -4,8 +4,7 @@
 [BDD - Hvad er en "story"](http://dannorth.net/whats-in-a-story/)
 
 ## Arkitektur
-[Big ball of mud](http://www.laputan.org/mud/mud.html)
-
+[Big ball of mud](http://www.laputan.org/mud/mud.html)  
 [DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net)
 
 ## Dokumentation
