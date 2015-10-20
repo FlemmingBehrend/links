@@ -21,5 +21,5 @@
 
 #### Under review, mangler kategorisering
 http://www.datadisk.co.uk/html_docs/ejb/ejb3_domain_models.htm  
-https://dzone.com/refcardz/getting-started-domain-driven
+https://dzone.com/refcardz/getting-started-domain-driven  
 http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/
