@@ -31,14 +31,14 @@ var $VAR$ = this;
 
 dsr > Describe block
 ```javascript
-describe("$DESCRIPTION$", function() {
+describe('$DESCRIPTION$', function() {
     $END$
 });
 ```
 
 itsh > it should statement
 ```javascript
-it("$DESCRIPTION$", function() {
+it('$DESCRIPTION$', function() {
     $END$
 });
 ```
