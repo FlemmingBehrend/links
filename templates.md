@@ -5,7 +5,7 @@ cl > Console log statement
 console.log('$END$');
 ```
 
-iife > Creates an Invoked Function Expression
+iife > Creates an immediately Invoked function expression
 ```javascript
 (function() {
     'use strict';
