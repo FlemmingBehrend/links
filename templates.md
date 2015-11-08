@@ -53,24 +53,6 @@ public void after() {
 }
 ```
 
-itest > Integration test block for JUnit
-```java
-@org.junit.Test
-@org.junit.experimental.categories.Category(dk.topdanmark.tr.test.IntegrationTest.class)
-public void $NAME$() {
-    $END$
-} 
-```
-
-not > Creates a default nothing test method
-```java
-@org.junit.Test
-@org.junit.experimental.categories.Category(dk.topdanmark.tr.test.UnitTest.class)
-public void nothing() {
-    assertTrue(true);
-}
-```
-
 setup > creates @before method
 ```java
 @org.junit.Before
@@ -91,7 +73,6 @@ public class $SUBCONTEXT$ {
 test > test block for JUnit
 ```java
 @org.junit.Test
-@org.junit.experimental.categories.Category(dk.topdanmark.tr.test.UnitTest.class)
 public void $NAME$() {
     $END$
 }
