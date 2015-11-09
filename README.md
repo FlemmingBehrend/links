@@ -25,4 +25,5 @@
 http://www.datadisk.co.uk/html_docs/ejb/ejb3_domain_models.htm  
 https://dzone.com/refcardz/getting-started-domain-driven  
 http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/  
-http://qed.dk/jeppe-cramon/2014/02/24/microservices-det-er-ikke-kun-stoerrelsen-det-er-vigtigt-det-er-ogsaa-hvordan-du-bruger-dem-del-1/
+http://qed.dk/jeppe-cramon/2014/02/24/microservices-det-er-ikke-kun-stoerrelsen-det-er-vigtigt-det-er-ogsaa-hvordan-du-bruger-dem-del-1/  
+https://github.com/borisyankov/DefinitelyTyped/blob/master/karma-jasmine/karma-jasmine.d.ts
