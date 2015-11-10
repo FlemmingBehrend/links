@@ -29,6 +29,32 @@ var $VAR$ = this;
 
 # Jasmine
 
+spec > Creates a skeleton jasmine test
+```javascript
+(function() {
+    'use strict';
+
+    describe('$DESCRIPTION$', function() {
+        
+        var cut, scope;
+        
+        beforeEach(module('$MODULE$'));
+        
+        beforeEach(inject(function ($rootScope) {
+            scope = $rootScope;
+        }));
+        
+        describe('initialization', function() {
+        
+            $END$
+        
+        });
+    
+    });
+
+})();
+```
+
 dsr > Describe block
 ```javascript
 describe('$DESCRIPTION$', function() {
