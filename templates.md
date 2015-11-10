@@ -29,27 +29,78 @@ var $VAR$ = this;
 
 # Jasmine
 
-spec > Creates a skeleton jasmine test
+specc > Creates a skeleton jasmine test for a controller
 ```javascript
 (function() {
     'use strict';
 
     describe('$DESCRIPTION$', function() {
         
-        var cut, scope;
+        var cut, scope, ctrl;
         
         beforeEach(module('$MODULE$'));
         
-        beforeEach(inject(function ($rootScope) {
+        beforeEach(inject(function ($rootScope, $controller) {
             scope = $rootScope;
+            ctrl = $controller;
         }));
         
+        function createController() {
+            cut = (function () {
+                return ctrl('$CONTROLLER$', {
+                    $scope: scope
+                });
+            })();
+            return cut;
+        }
+
         describe('initialization', function() {
         
+            it('can initialize the controller', function() {
+                cut = createController();
+                expect(cut).toBeDefined();
+            });
+
             $END$
         
         });
     
+    });
+
+})();
+```
+
+specs > Creates a skeleton jasmine test for a service
+```javascript
+(function() {
+    'use strict';
+
+    describe('$DESCRIPTION$', function() {
+
+        var cut, httpBackend;
+
+        beforeEach(module('$MODULE$'));
+
+        beforeEach(inject(function ($SERVICE$, $httpBackend) {
+            cut = $SERVICE$;
+            httpBackend = $httpBackend;
+        }));
+
+        afterEach(function () {
+            httpBackend.verifyNoOutstandingExpectation();
+            httpBackend.verifyNoOutstandingRequest();
+        });
+
+        describe('initialization', function() {
+
+            it('has initialized the class under test', function() {
+                expect(cut).toBeDefined();
+            });
+
+            $END$
+
+        });
+
     });
 
 })();
