@@ -18,8 +18,8 @@
 ## Infrastruktur / Teknik
 [RFC 2616 Hypertext Transfer Protocol](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
 
-
-
+## Tools
+[Json Analyser - Sebastion Daschner](https://blog.sebastian-daschner.com/entries/jaxrs_analyzer_explained_video)
 
 #### Under review, mangler kategorisering
 http://www.datadisk.co.uk/html_docs/ejb/ejb3_domain_models.htm  
