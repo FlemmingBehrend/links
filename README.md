@@ -33,5 +33,3 @@
 
 #### Under review, mangler kategorisering
 http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/  
-  
-https://github.com/borisyankov/DefinitelyTyped/blob/master/karma-jasmine/karma-jasmine.d.ts
