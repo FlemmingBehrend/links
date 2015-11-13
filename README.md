@@ -7,6 +7,7 @@
 
 ### Not categorized
 [Big ball of mud](http://www.laputan.org/mud/mud.html)  
+[The danger of using ObjectMessage in JMS](http://jmesnil.net/weblog/2012/07/27/on-jms-objectmessage-and-its-pitfalls/)  
 
 ### DDD
 [DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net) -
