@@ -12,7 +12,7 @@
 ### DDD
 [DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net) -
   [Characterization](https://java.net/projects/cargotracker/pages/Characterization)-
-  [Layers](https://java.net/projects/cargotracker/pages/Layers)  
+  [Layers](https://java.net/projects/cargotracker/pages/Layers) - [Cargotracker on github](https://github.com/paoesco/cargotracker-ddd)  
 [DDD med Java EE 6 - Adam Bien](http://www.javaworld.com/article/2078042/java-app-dev/domain-driven-design-with-java-ee-6.html)  
 [Eric Evans DomainLanguage website](https://domainlanguage.com)  
 [DDD Community](http://dddcommunity.org)
