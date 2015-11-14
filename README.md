@@ -34,4 +34,5 @@
 
 #### Under review, mangler kategorisering
 http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/  
-https://vimeo.com/13549100
+https://vimeo.com/13549100  
+https://en.wikipedia.org/wiki/Specification_pattern  
