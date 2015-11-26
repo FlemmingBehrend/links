@@ -135,6 +135,8 @@ specd > Creates a skeleton jasmine test for a directive
             expect(el).toBeDefined();
         });
 
+        $END$
+        
     });
 
 })();
