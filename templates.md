@@ -130,7 +130,7 @@ specd > Creates a skeleton jasmine test for a directive
             return el;
         }
 
-        it("it can compile", function() {
+        it('it can compile', function() {
             var el = ce('<div"></div>');
             expect(el).toBeDefined();
         });
