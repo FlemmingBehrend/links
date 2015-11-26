@@ -106,6 +106,40 @@ specs > Creates a skeleton jasmine test for a service
 })();
 ```
 
+specd > Creates a skeleton jasmine test for a directive
+```javascript
+(function () {
+    'use strict';
+
+    describe('$DESCRIPTION$', function () {
+
+        var scope, compile;
+
+        beforeEach(function() {
+            module('$MODULE$');
+            inject(function($compile, $rootScope) {
+                compile = $compile;
+                scope = $rootScope.$new();
+            });
+        });
+
+        // compile element
+        function ce(htmlString) {
+            var el = compile(htmlString)(scope);
+            scope.$digest();
+            return el;
+        }
+
+        it("it can compile", function() {
+            var el = ce('<div"></div>');
+            expect(el).toBeDefined();
+        });
+
+    });
+
+})();
+```
+
 dsr > Describe block
 ```javascript
 describe('$DESCRIPTION$', function() {
