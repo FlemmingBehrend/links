@@ -32,6 +32,9 @@
 ## Tools
 [Json Analyser - Sebastion Daschner](https://blog.sebastian-daschner.com/entries/jaxrs_analyzer_explained_video)
 
+## Web
+[SCSS best practices](https://github.com/mobify/mobify-code-style/tree/master/css/sass-best-practices)
+
 #### Under review, mangler kategorisering
 http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/  
 https://vimeo.com/13549100  
