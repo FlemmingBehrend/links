@@ -40,4 +40,3 @@ http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/
 https://vimeo.com/13549100  
 https://en.wikipedia.org/wiki/Specification_pattern  
 https://www.youtube.com/watch?v=G5MzkDJQkoQ
-http://stackoverflow.com/questions/31448114/how-can-i-transpile-compile-sass-or-scss-with-node-sass-and-gulp-sass-based-on
