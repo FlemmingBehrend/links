@@ -16,8 +16,8 @@
 [DDD med Java EE 6 - Adam Bien](http://www.javaworld.com/article/2078042/java-app-dev/domain-driven-design-with-java-ee-6.html)  
 [Eric Evans DomainLanguage website](https://domainlanguage.com)  
 [DDD Community](http://dddcommunity.org)
-[DDD concepts explained very short - good examples](https://dzone.com/refcardz/getting-started-domain-driven  
-)  
+[DDD concepts explained very short - good examples](https://dzone.com/refcardz/getting-started-domain-driven)  
+[Specification design pattern](https://en.wikipedia.org/wiki/Specification_pattern)  
 
 ### Microservices
 [Getting started with microservices - Arun Gupta](https://dzone.com/refcardz/getting-started-with-microservices)  
@@ -38,5 +38,3 @@
 #### Under review, mangler kategorisering
 http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/  
 https://vimeo.com/13549100  
-https://en.wikipedia.org/wiki/Specification_pattern  
-https://www.youtube.com/watch?v=G5MzkDJQkoQ
