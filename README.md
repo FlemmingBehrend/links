@@ -38,4 +38,5 @@
 #### Under review, mangler kategorisering
 http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/  
 https://vimeo.com/13549100  
-http://semver.org/spec/v1.0.0.html  
+http://semver.org/spec/v1.0.0.html   
+http://nikas.praninskas.com/angular/2014/09/27/unit-testing-ui-router-configuration/
