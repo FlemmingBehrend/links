@@ -40,3 +40,4 @@ http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/
 https://vimeo.com/13549100  
 http://semver.org/spec/v1.0.0.html   
 http://nikas.praninskas.com/angular/2014/09/27/unit-testing-ui-router-configuration/
+http://ng-learn.org/2014/08/Testing_Promises_with_Jasmine_Provide_Spy/
