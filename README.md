@@ -42,4 +42,5 @@ http://semver.org/spec/v1.0.0.html
 http://nikas.praninskas.com/angular/2014/09/27/unit-testing-ui-router-configuration/
 http://ng-learn.org/2014/08/Testing_Promises_with_Jasmine_Provide_Spy/  
 http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/  
-https://pages.cloudbees.com/rs/083-PKZ-512/images/Docker-Jenkins-Continuous-Delivery.pdf
+https://pages.cloudbees.com/rs/083-PKZ-512/images/Docker-Jenkins-Continuous-Delivery.pdf  
+http://www.codingpedia.org/ama/resources-on-how-to-design-error-handling-in-a-rest-api/
