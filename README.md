@@ -27,13 +27,15 @@
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 ## Infrastruktur / Teknik
-[RFC 2616 Hypertext Transfer Protocol](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
+[RFC 2616 Hypertext Transfer Protocol](http://www.w3.org/Protocols/rfc2616/rfc2616.html)  
+[Error handling in REST api](http://www.codingpedia.org/ama/resources-on-how-to-design-error-handling-in-a-rest-api/)  
 
 ## Tools
 [Json Analyser - Sebastion Daschner](https://blog.sebastian-daschner.com/entries/jaxrs_analyzer_explained_video)
 
 ## Web
-[SCSS best practices](https://github.com/mobify/mobify-code-style/tree/master/css/sass-best-practices)
+[SCSS best practices](https://github.com/mobify/mobify-code-style/tree/master/css/sass-best-practices)  
+[Setup SCSS with gulp}(http://www.codingpedia.org/ama/how-to-use-gulp-to-generate-css-from-sass-scss/)  
 
 #### Under review, mangler kategorisering
 http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/  
@@ -43,5 +45,4 @@ http://nikas.praninskas.com/angular/2014/09/27/unit-testing-ui-router-configurat
 http://ng-learn.org/2014/08/Testing_Promises_with_Jasmine_Provide_Spy/  
 http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/  
 https://pages.cloudbees.com/rs/083-PKZ-512/images/Docker-Jenkins-Continuous-Delivery.pdf  
-http://www.codingpedia.org/ama/resources-on-how-to-design-error-handling-in-a-rest-api/  
-http://www.codingpedia.org/ama/how-to-use-gulp-to-generate-css-from-sass-scss/
+  
