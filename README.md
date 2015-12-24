@@ -35,7 +35,7 @@
 
 ## Web
 [SCSS best practices](https://github.com/mobify/mobify-code-style/tree/master/css/sass-best-practices)  
-[Setup SCSS with gulp}(http://www.codingpedia.org/ama/how-to-use-gulp-to-generate-css-from-sass-scss/)  
+[Setup SCSS with gulp](http://www.codingpedia.org/ama/how-to-use-gulp-to-generate-css-from-sass-scss/)  
 
 #### Under review, mangler kategorisering
 http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/  
