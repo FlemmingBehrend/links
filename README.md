@@ -45,4 +45,4 @@ http://nikas.praninskas.com/angular/2014/09/27/unit-testing-ui-router-configurat
 http://ng-learn.org/2014/08/Testing_Promises_with_Jasmine_Provide_Spy/  
 http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/  
 https://pages.cloudbees.com/rs/083-PKZ-512/images/Docker-Jenkins-Continuous-Delivery.pdf  
-  
+https://www.youtube.com/watch?v=R2nj1vRjLwE
