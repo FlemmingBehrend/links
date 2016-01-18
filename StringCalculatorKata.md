@@ -19,7 +19,6 @@ The following is a TDD Kata- an exercise in coding, refactoring and test-first, 
   1. the following input is ok:  `“1\n2,3”`  (will equal 6)
 4. Support different delimiters
   1. to change a delimiter, the beginning of the string will contain a separate line that looks like this:   `“//[delimiter]\n[numbers…]”` for example `“//;\n1;2”` should return three where the default delimiter is ‘;’ .
-  2. the first line is optional. all existing tests should still be pass
 5. Calling Add with a negative number will throw an exception “negatives not allowed” - and the negative that was passed.if there are multiple negatives, show all of them in the exception message  
 ***stop here if you are a beginner. Continue if you can finish the steps so far in less than 30 minutes.***
 
