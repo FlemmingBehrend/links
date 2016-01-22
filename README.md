@@ -30,6 +30,9 @@
 [RFC 2616 Hypertext Transfer Protocol](http://www.w3.org/Protocols/rfc2616/rfc2616.html)  
 [Error handling in REST api](http://www.codingpedia.org/ama/resources-on-how-to-design-error-handling-in-a-rest-api/)  
 
+## Specs
+[xhr spec](https://xhr.spec.whatwg.org)  
+
 ## Tools
 [Json Analyser - Sebastion Daschner](https://blog.sebastian-daschner.com/entries/jaxrs_analyzer_explained_video)
 
