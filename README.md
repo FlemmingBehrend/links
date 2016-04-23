@@ -16,7 +16,8 @@
 [Adam Bien - DDD med Java EE 6](http://www.javaworld.com/article/2078042/java-app-dev/domain-driven-design-with-java-ee-6.html)  
 [DDD Community](http://dddcommunity.org)  
 [DDD concepts explained very short - good examples](https://dzone.com/refcardz/getting-started-domain-driven)  
-[DDD in practice](http://www.infoq.com/articles/ddd-in-practice)
+[DDD in practice](http://www.infoq.com/articles/ddd-in-practice)  
+[The power of value objects](https://vimeo.com/13549100)  
 
 #### Cargo tracker
 [DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net)  
@@ -52,15 +53,18 @@
 [Json Analyser - Sebastion Daschner](https://blog.sebastian-daschner.com/entries/jaxrs_analyzer_explained_video)
 
 ## Web
+### CSS/SCSS
 [SCSS best practices](https://github.com/mobify/mobify-code-style/tree/master/css/sass-best-practices)  
 [Setup SCSS with gulp](http://www.codingpedia.org/ama/how-to-use-gulp-to-generate-css-from-sass-scss/)  
+### Javascript test
+[Testing UI router](http://nikas.praninskas.com/angular/2014/09/27/unit-testing-ui-router-configuration/)  
+[Testing promises (Jasmine spys)](http://ng-learn.org/2014/08/Testing_Promises_with_Jasmine_Provide_Spy/) - [Testing promises ($q)](http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/)
+
+## Docker
+[Docker, Jenkins and Continuous Delivery](https://pages.cloudbees.com/rs/083-PKZ-512/images/Docker-Jenkins-Continuous-Delivery.pdf)  
 
 #### Under review, mangler kategorisering
 http://gojko.net/2009/06/23/improving-performance-and-scalability-with-ddd/  
-https://vimeo.com/13549100  
 http://semver.org/spec/v1.0.0.html   
-http://nikas.praninskas.com/angular/2014/09/27/unit-testing-ui-router-configuration/
-http://ng-learn.org/2014/08/Testing_Promises_with_Jasmine_Provide_Spy/  
-http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/  
-https://pages.cloudbees.com/rs/083-PKZ-512/images/Docker-Jenkins-Continuous-Delivery.pdf  
+  
 https://www.youtube.com/watch?v=R2nj1vRjLwE
