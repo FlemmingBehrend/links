@@ -19,7 +19,8 @@
 [DDD in practice](http://www.infoq.com/articles/ddd-in-practice)
 
 #### Cargo tracker
-[DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net)   [Characterization](https://java.net/projects/cargotracker/pages/Characterization)  
+[DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net)  
+[Characterization](https://java.net/projects/cargotracker/pages/Characterization)  
 [Layers](https://java.net/projects/cargotracker/pages/Layers)  
 [Cargotracker on github](https://github.com/paoesco/cargotracker-ddd)  
 
