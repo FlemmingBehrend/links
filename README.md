@@ -14,14 +14,15 @@
 
 ### DDD
 [Adam Bien - DDD med Java EE 6](http://www.javaworld.com/article/2078042/java-app-dev/domain-driven-design-with-java-ee-6.html)  
-[DDD Community](http://dddcommunity.org)
+[DDD Community](http://dddcommunity.org)  
 [DDD concepts explained very short - good examples](https://dzone.com/refcardz/getting-started-domain-driven)  
 [DDD in practice](http://www.infoq.com/articles/ddd-in-practice)
 
 #### Cargo tracker
-[DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net) -
-  [Characterization](https://java.net/projects/cargotracker/pages/Characterization)-
-  [Layers](https://java.net/projects/cargotracker/pages/Layers) - [Cargotracker on github](https://github.com/paoesco/cargotracker-ddd)
+[DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net)   [Characterization](https://java.net/projects/cargotracker/pages/Characterization)  
+[Layers](https://java.net/projects/cargotracker/pages/Layers)  
+[Cargotracker on github](https://github.com/paoesco/cargotracker-ddd)  
+
 #### Domain Language
 [Eric Evans DomainLanguage website](https://domainlanguage.com)  
 [Eric Evans - Four Prerequisites for domain driven design](https://domainlanguage.com/newsletter/2010-09/)  
