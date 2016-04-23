@@ -13,18 +13,28 @@
 [The danger of using ObjectMessage in JMS](http://jmesnil.net/weblog/2012/07/27/on-jms-objectmessage-and-its-pitfalls/)  
 
 ### DDD
-[DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net) -
-  [Characterization](https://java.net/projects/cargotracker/pages/Characterization)-
-  [Layers](https://java.net/projects/cargotracker/pages/Layers) - [Cargotracker on github](https://github.com/paoesco/cargotracker-ddd)  
-[DDD med Java EE 6 - Adam Bien](http://www.javaworld.com/article/2078042/java-app-dev/domain-driven-design-with-java-ee-6.html)  
-[Eric Evans DomainLanguage website](https://domainlanguage.com)  
+[Adam Bien - DDD med Java EE 6](http://www.javaworld.com/article/2078042/java-app-dev/domain-driven-design-with-java-ee-6.html)  
 [DDD Community](http://dddcommunity.org)
 [DDD concepts explained very short - good examples](https://dzone.com/refcardz/getting-started-domain-driven)  
+[DDD in practice](http://www.infoq.com/articles/ddd-in-practice)
+
+#### Cargo tracker
+[DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net) -
+  [Characterization](https://java.net/projects/cargotracker/pages/Characterization)-
+  [Layers](https://java.net/projects/cargotracker/pages/Layers) - [Cargotracker on github](https://github.com/paoesco/cargotracker-ddd)
+#### Domain Language
+[Eric Evans DomainLanguage website](https://domainlanguage.com)  
+[Eric Evans - Four Prerequisites for domain driven design](https://domainlanguage.com/newsletter/2010-09/)
+[Eric Evans - Getting started when surrounded by legacy systems](http://domainlanguage.com/ddd/strategy/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)  
+[Eric Evans - Strategic design, what not to do and what to do](http://www.infoq.com/presentations/design-strategic-eric-evans)  
+
+#### Patterns
 [Specification design pattern](https://en.wikipedia.org/wiki/Specification_pattern)  
 
 ### Microservices
 [Getting started with microservices - Arun Gupta](https://dzone.com/refcardz/getting-started-with-microservices)  
 [Transaction challenges - distributed architecture](http://qed.dk/jeppe-cramon/2014/02/24/microservices-det-er-ikke-kun-stoerrelsen-det-er-vigtigt-det-er-ogsaa-hvordan-du-bruger-dem-del-1/)  
+[DDD and Microservices](https://vimeo.com/125769142)
 
 ## Dokumentation
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
