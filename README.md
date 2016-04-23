@@ -24,7 +24,7 @@
   [Layers](https://java.net/projects/cargotracker/pages/Layers) - [Cargotracker on github](https://github.com/paoesco/cargotracker-ddd)
 #### Domain Language
 [Eric Evans DomainLanguage website](https://domainlanguage.com)  
-[Eric Evans - Four Prerequisites for domain driven design](https://domainlanguage.com/newsletter/2010-09/)
+[Eric Evans - Four Prerequisites for domain driven design](https://domainlanguage.com/newsletter/2010-09/)  
 [Eric Evans - Getting started when surrounded by legacy   systems](http://domainlanguage.com/ddd/strategy/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)  
 [Eric Evans - Strategic design, what not to do and what to do](http://www.infoq.com/presentations/design-strategic-eric-evans)  
 
