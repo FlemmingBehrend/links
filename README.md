@@ -10,7 +10,7 @@
 
 ### Java
 [Bean Validation Spec](http://beanvalidation.org/1.1/spec/)  
-[Hibernate Bean Validation documentation](http://docs.jboss.org/hibernate/validator/4.3/reference/en-US/html_single/)
+[Hibernate Bean Validation documentation](http://docs.jboss.org/hibernate/validator/4.3/reference/en-US/html_single/)  
 [The danger of using ObjectMessage in JMS](http://jmesnil.net/weblog/2012/07/27/on-jms-objectmessage-and-its-pitfalls/)  
 
 ### DDD
