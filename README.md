@@ -8,11 +8,13 @@
 
 ## Arkitektur
 
-### Not categorized
-[Big ball of mud](http://www.laputan.org/mud/mud.html)  
+### Java
+[Bean Validation Spec](http://beanvalidation.org/1.1/spec/)  
+[Hibernate Bean Validation documentation](http://docs.jboss.org/hibernate/validator/4.3/reference/en-US/html_single/)
 [The danger of using ObjectMessage in JMS](http://jmesnil.net/weblog/2012/07/27/on-jms-objectmessage-and-its-pitfalls/)  
 
 ### DDD
+[Big ball of mud](http://www.laputan.org/mud/mud.html)  
 [Adam Bien - DDD med Java EE 6](http://www.javaworld.com/article/2078042/java-app-dev/domain-driven-design-with-java-ee-6.html)  
 [DDD Community](http://dddcommunity.org)  
 [DDD concepts explained very short - good examples](https://dzone.com/refcardz/getting-started-domain-driven)  
@@ -46,9 +48,6 @@
 [RFC 2616 Hypertext Transfer Protocol](http://www.w3.org/Protocols/rfc2616/rfc2616.html)  
 [Error handling in REST api](http://www.codingpedia.org/ama/resources-on-how-to-design-error-handling-in-a-rest-api/)  
 
-## Specs
-[xhr spec](https://xhr.spec.whatwg.org)  
-
 ## Tools
 [Json Analyser - Sebastion Daschner](https://blog.sebastian-daschner.com/entries/jaxrs_analyzer_explained_video)
 
@@ -59,6 +58,8 @@
 ### Javascript test
 [Testing UI router](http://nikas.praninskas.com/angular/2014/09/27/unit-testing-ui-router-configuration/)  
 [Testing promises (Jasmine spys)](http://ng-learn.org/2014/08/Testing_Promises_with_Jasmine_Provide_Spy/) - [Testing promises ($q)](http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/)
+### HTTP
+[xhr spec](https://xhr.spec.whatwg.org)  
 
 ## Docker
 [Docker, Jenkins and Continuous Delivery](https://pages.cloudbees.com/rs/083-PKZ-512/images/Docker-Jenkins-Continuous-Delivery.pdf)  
