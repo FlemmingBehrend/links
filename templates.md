@@ -27,6 +27,28 @@ vm > 'this' reference to the scope on a controller
 var $VAR$ = this;
 ```
 
+# Angular
+
+li > Angulars $log.info
+```javascript
+$log.info('$MESSAGE$', $END$);
+```
+
+le > Angulars $log.error
+```javascript
+$log.error('$MESSAGE$', $END$);
+```
+
+lw > Angulars $log.warn
+```javascript
+$log.warn('$MESSAGE$', $END$);
+```
+
+ld > Angulars $log.debug
+```javascript
+$log.debug('$MESSAGE$', $END$);
+```
+
 # Jasmine
 
 specc > Creates a skeleton jasmine test for a controller
