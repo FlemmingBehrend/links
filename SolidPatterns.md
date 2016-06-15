@@ -12,7 +12,7 @@
   - xxx
 
 ## The Interface Segregation Principle
-  - xxx
+  - Facade Pattern
 
 ## The Dependency Inversion Principle
   - xxx
