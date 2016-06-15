@@ -35,6 +35,7 @@
 
 #### Patterns
 [Specification design pattern](https://en.wikipedia.org/wiki/Specification_pattern)  
+[Design Patterns divided into SOLID principles](SolidPatterns.md)
 
 ### Microservices
 [Getting started with microservices - Arun Gupta](https://dzone.com/refcardz/getting-started-with-microservices)  
