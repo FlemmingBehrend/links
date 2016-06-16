@@ -15,4 +15,4 @@
   - Facade Pattern
 
 ## The Dependency Inversion Principle
-  - xxx
+  - Strategy Pattern
