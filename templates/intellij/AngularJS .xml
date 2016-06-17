@@ -1,0 +1,28 @@
+<templateSet group="AngularJS ">
+  <template name="li" value="$log.info('$MESSAGE$', $END$);" description="Angulars $log.info" toReformat="false" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="Information" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="le" value="$log.error('$MESSAGE$', $END$);" description="Angulars $log.error" toReformat="false" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lw" value="$log.warn('$MESSAGE$', $END$);" description="Angulars $log.warn" toReformat="false" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ld" value="$log.debug('$MESSAGE$', $END$);" description="Angulars $log.debug" toReformat="false" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

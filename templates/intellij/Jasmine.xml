@@ -1,0 +1,37 @@
+<templateSet group="Jasmine">
+  <template name="dsr" value="describe('$DESCRIPTION$', function() {&#10;    $END$&#10;});" description="Describe block" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="itsh" value="it('$DESCRIPTION$', function() {&#10;    $END$&#10;});" description="it should statement" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="specc" value="(function() {&#10;    'use strict';&#10;&#10;    describe('$DESCRIPTION$', function() {&#10;&#10;        var cut, scope, ctrl;&#10;&#10;        beforeEach(module('$MODULE$'));&#10;&#10;        beforeEach(inject(function ($rootScope, $controller) {&#10;            scope = $rootScope;&#10;            ctrl = $controller;&#10;        }));&#10;&#10;        function createController() {&#10;            cut = (function () {&#10;                return ctrl('$CONTROLLER$', {&#10;                    $scope: scope&#10;                });&#10;            })();&#10;            return cut;&#10;        }&#10;&#10;        describe('initialization', function() {&#10;&#10;            it('can initialize the controller', function() {&#10;                cut = createController();&#10;                expect(cut).toBeDefined();&#10;            });&#10;&#10;            $END$&#10;&#10;        });&#10;&#10;    });&#10;&#10;})();" description="Creates a skeleton jasmine test for a controller" toReformat="false" toShortenFQNames="false">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTROLLER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="specs" value="(function() {&#10;    'use strict';&#10;&#10;    describe('$DESCRIPTION$', function() {&#10;&#10;        var cut, httpBackend;&#10;&#10;        beforeEach(module('$MODULE$'));&#10;&#10;        beforeEach(inject(function ($SERVICE$, $httpBackend) {&#10;            cut = $SERVICE$;&#10;            httpBackend = $httpBackend;&#10;        }));&#10;&#10;        afterEach(function () {&#10;            httpBackend.verifyNoOutstandingExpectation();&#10;            httpBackend.verifyNoOutstandingRequest();&#10;        });&#10;&#10;        describe('initialization', function() {&#10;&#10;            it('has initialized the class under test', function() {&#10;                expect(cut).toBeDefined();&#10;            });&#10;&#10;            $END$&#10;&#10;        });&#10;&#10;    });&#10;&#10;})();" description="Creates a skeleton jasmine test for a service" toReformat="false" toShortenFQNames="false">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SERVICE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="specd" value="(function () {&#10;    'use strict';&#10;&#10;    describe('$DESCRIPTION$', function () {&#10;&#10;        var scope, compile;&#10;&#10;        beforeEach(function() {&#10;            module('$MODULE$');&#10;            inject(function($compile, $rootScope) {&#10;                compile = $compile;&#10;                scope = $rootScope.$new();&#10;            });&#10;        });&#10;&#10;        // compile element&#10;        function ce(htmlString) {&#10;            var el = compile(htmlString)(scope);&#10;            scope.$digest();&#10;            return el;&#10;        }&#10;&#10;        it(&quot;it can compile&quot;, function() {&#10;            var el = ce('&lt;div&quot;&gt;&lt;/div&gt;');&#10;            expect(el).toBeDefined();&#10;        });&#10;&#10;        $END$&#10;        &#10;    });&#10;&#10;})();&#10;" description="Creates a skeleton jasmine test for a directive" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
