@@ -27,6 +27,13 @@ vm > 'this' reference to the scope on a controller
 var $VAR$ = this;
 ```
 
+func > Creates a function
+```javascript
+function$NAME$($PARAMTERS$) {
+    $END$
+};
+```
+
 # Angular
 
 li > Angulars $log.info
