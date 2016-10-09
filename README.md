@@ -46,9 +46,10 @@
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 ## RFC's
+[RFC 768 - UDP](https://tools.ietf.org/html/rfc768)  
 [RFC 791 - IP](https://tools.ietf.org/html/rfc791)  
 [RFC 793 - TCP](https://tools.ietf.org/html/rfc793)  
-[RFC 2616 - Hypertext Transfer Protocol](http://www.w3.org/Protocols/rfc2616/rfc2616.html)  
+[RFC 2616 - HTTP](http://www.w3.org/Protocols/rfc2616/rfc2616.html)  
 
 ## Infrastruktur / Teknik
 [Error handling in REST api](http://www.codingpedia.org/ama/resources-on-how-to-design-error-handling-in-a-rest-api/)  
