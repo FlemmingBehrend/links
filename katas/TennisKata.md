@@ -4,6 +4,8 @@ https://en.wikipedia.org/wiki/Tennis_scoring_system
 
 Create a program that can keep track of score in a tennis match based on the rules above.
 
+This is a [TDD](https://en.wikipedia.org/wiki/Test-driven_development) kata så write one or more test before code for each business rule.
+
 ## The program's interface
 
 1. The program needs to be created with the names of the two players.
