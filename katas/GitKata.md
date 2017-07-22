@@ -27,3 +27,7 @@ This kata is an exercise in working with the most used git commands.
 * Your changes need to go into the master branch without creating a merge commit (hint: rebase)
 
 
+<details>
+ <summary>click</summary>
+ <p>expand text</p>
+</details>
