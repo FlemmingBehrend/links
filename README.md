@@ -3,6 +3,7 @@
 ## Blogs to follow
 [Netflix tech blog](http://techblog.netflix.com/)  
 
+test
 ## Analyse
 [BDD - Hvad er en "story"](http://dannorth.net/whats-in-a-story/)
 
