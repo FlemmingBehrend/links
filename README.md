@@ -1,9 +1,17 @@
 # Links
 
+## AWS
+
+### Lambda
+[Building lambda extentions](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-extension)
+
+### CloudTrail
+[Event generator](https://www.intelligentdiscovery.io/tools/cloudtrailevents)
+
+
 ## Blogs to follow
 [Netflix tech blog](http://techblog.netflix.com/)  
 
-test
 ## Analyse
 [BDD - Hvad er en "story"](http://dannorth.net/whats-in-a-story/)
 
